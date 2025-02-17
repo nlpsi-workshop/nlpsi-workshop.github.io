@@ -19,10 +19,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<h2 style="text-align: center; font-size: 32px">
+First Workshop on Integrating NLP and Psychology to Study Social Interactions (NLPSI) at ICWSM 2025
+</h2>
+
 
 Recent advances in natural language processing (NLP) have facilitated the modeling and analysis of more complex aspects of human language and communication. However, certain foundational questions remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology can offer valuable insights into these questions, as it has been studying human behavior, perception and communication for years. At the same time, NLP allows to go beyond controlled, small-scale experiments and conduct large-scale studies to better explore certain theories and research questions in psychology. This interdisciplinary workshop seeks to bridge the two disciplines with a primary focus on NLP research that is explicitly grounded in psychological theories.
 
