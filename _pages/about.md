@@ -1,20 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
+#  more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,8 +24,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Recent advances in natural language processing (NLP) have facilitated the modeling and analysis of more complex aspects of human language and communication. However, certain foundational questions remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology can offer valuable insights into these questions, as it has been studying human behavior, perception and communication for years. At the same time, NLP allows to go beyond controlled, small-scale experiments and conduct large-scale studies to better explore certain theories and research questions in psychology. This interdisciplinary workshop seeks to bridge the two disciplines with a primary focus on NLP research that is explicitly grounded in psychological theories.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We invite researchers to explore how psychological phenomena manifest in language, with a focus on
+integrating NLP and psychological theories. We are particularly interested in studies on communication and
+interpersonal interactions, as well as innovative approaches that adapt experimental designs from psychology
+to create rich corpora. Additionally, we encourage discussions on how NLP, including generative models, can
+advance social psychology research by simulating social interactions, opening new possibilities for studying
+human behavior at scale, both in human and AI contexts.
+Topics include, but are not limited to:
+- Extracting and classifying psychological constructs (e.g., beliefs, motives, feelings, affect, personality traits)
+to compare and expand existing psychological theories.
+- Using NLP to replicate psychological studies, especially those focused on interaction.
+- Investigating how language reflects social identities, including ethnicity and group affiliation.
+- Analyzing communication patterns such as empathy, persuasion, and conflict resolution, and how these are linguistically expressed in different contexts.
+- Examining the role of emotions in interpersonal communication, including phenomena like emotion
+contagion and interpersonal emotion regulation.
+- Leveraging LLMs in experimental, interactional studies.
+- Exploring how psychological constructs and theories manifest across cultures, using NLP to identify cross-cultural variations in communication and behavior.
