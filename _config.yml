@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: NLPSI'25 # the website title (if blank, full name will be used instead)
 first_name: 
-middle_name:
-last_name: First Workshop on Integrating NLP and Psychology to Study Social Interactions (NLPSI) at ICWSM 2025
+middle_name: First Workshop on Integrating NLP and Psychology to Study Social
+last_name: Interactions (NLPSI) at ICWSM 2025
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
