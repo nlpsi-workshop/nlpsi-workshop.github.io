@@ -39,5 +39,5 @@ advance social psychology research by simulating social interactions, opening ne
 human behavior at scale, both in human and AI contexts.
 
 
-### Invited Speakers
+### Invited Speaker
 {% include speakers.liquid center=true %}
