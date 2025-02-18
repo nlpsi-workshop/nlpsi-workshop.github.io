@@ -12,12 +12,11 @@ nav_order: 2
 **Deadline for paper submission**: March 31, 2025
 
 
-The workshop will be co-located with the International AAAI Conference on Web and Social Media (ICWSM'25) and will take place in person on Monday 23 June 2025.
+The workshop will be co-located with the International AAAI Conference on Web and Social Media **(ICWSM'25)** and will take place **in person** on **Monday 23 June 2025**.
 
 
 Topics of interest include, but are not limited to:
 
-Topics include, but are not limited to:
 - Extracting and classifying psychological constructs (e.g., beliefs, motives, feelings, affect, personality traits) to compare and expand existing psychological theories.
 - Using NLP to replicate psychological studies, especially those focused on interaction.
 - Investigating how language reflects social identities, including ethnicity and group affiliation.
