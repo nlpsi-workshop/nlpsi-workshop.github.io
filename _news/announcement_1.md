@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+NLPSI'25: First Workshop on Integrating NLP and Psychology to Study Social Interactions will be co-located with ICWSM'25 on **June 23, 2025**, in **Copenhagen, Denmark**. Stay tuned for more details!

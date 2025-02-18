@@ -37,3 +37,7 @@ interpersonal interactions, as well as innovative approaches that adapt experime
 to create rich corpora. Additionally, we encourage discussions on how NLP, including generative models, can
 advance social psychology research by simulating social interactions, opening new possibilities for studying
 human behavior at scale, both in human and AI contexts.
+
+
+### Invited Speakers
+{% include speakers.liquid center=true %}
