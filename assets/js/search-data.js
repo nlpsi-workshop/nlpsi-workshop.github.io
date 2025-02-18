@@ -38,16 +38,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-nlpsi-25-first-workshop-on-integrating-nlp-and-psychology-to-study-social-interactions-will-be-co-located-with-icwsm-25-on-june-23-2025-in-copenhagen-denmark-stay-tuned-for-more-details",
+          title: 'NLPSI’25: First Workshop on Integrating NLP and Psychology to Study Social Interactions will...',
           description: "",
           section: "News",},{
       id: 'light-theme',
