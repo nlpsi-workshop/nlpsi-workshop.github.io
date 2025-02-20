@@ -1,4 +1,4 @@
-# NLPSI :  First Workshop on Integrating NLP and Psychology to Study Social Interactions 
+# NLPSI Workshop: Integrating NLP and Psychology to Study Social Interactions.
 
 Repository for website https://nlpsi-workshop.github.io
 
