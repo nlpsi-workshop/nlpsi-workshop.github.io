@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Previous Editions
-nav: false
+nav: true
 nav_order: 8
-dropdown: false
+dropdown: true
 children:
   - title: NLPSI'25
     permalink: /2025/
