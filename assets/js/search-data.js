@@ -16,14 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/call_for_papers/";
           },
-        },{id: "dropdown-nlpsi-39-25",
-              title: "NLPSI&#39;25",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "nav-schedule",
+        },{id: "nav-schedule",
           title: "Schedule",
           description: "",
           section: "Navigation",
