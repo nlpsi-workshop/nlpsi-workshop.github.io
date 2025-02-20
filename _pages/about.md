@@ -40,4 +40,3 @@ human behavior at scale, both in human and AI contexts.
 
 
 ### Invited Speaker
-{% include speakers.liquid center=true %}
