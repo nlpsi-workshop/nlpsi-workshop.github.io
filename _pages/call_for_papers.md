@@ -12,6 +12,7 @@ The **First Workshop on Integrating NLP and Psychology to Study Social Interacti
 
 **Deadline for paper submission:** March 21, 2025
 
+
 ## Background and Scope
 
 Recent advances in natural language processing (NLP) have enabled not only the modeling of syntax and semantics but also the analysis of higher-level aspects of human communication—such as pragmatics, social dynamics, and emotional expression. Building on these advances, we can now address foundational questions that remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology has been studying human behavior, perception, and communication for years, offering valuable insights into these questions. At the same time, NLP allows us to move beyond controlled, small-scale experiments and conduct large-scale studies to better explore key theories and research questions in psychology.
@@ -26,6 +27,7 @@ NLPSI seeks to bridge these two disciplines with a primary focus on NLP research
 - **LLMs in experimental, interactional studies.**
 - **Cross-cultural variations in communication and behavior.**
 
+
 ## Submission Types
 
 We invite the following types of submissions:
@@ -34,9 +36,11 @@ We invite the following types of submissions:
 - **Short papers** (up to 4 pages) that introduce emerging ideas, work in progress, or early-stage research with clear significance.
 - **Extended Abstracts** (up to 2 pages) that present ongoing work, position papers, previously published work, or research projects. Abstracts can be submitted either for inclusion in the proceedings (archival) or as non-archival contributions.
 
+
 ## Format
 
-All papers must follow the AAAI two-column, camera-ready style for US Letter (8.5" x 11") paper, using Type 1 or TrueType fonts. (Available templates: [AAAI 2025 Author Kit on Overleaf](https://www.overleaf.com) or [AAAI 2025 Author Kit.zip](#) [Word | LaTeX]). The review process will be double-blind, so please anonymize your papers by removing identifying information such as author names, affiliations, and funding details.
+All papers must follow the AAAI two-column, camera-ready style for US Letter (8.5" x 11") paper, using Type 1 or TrueType fonts. (Available templates: [AAAI 2025 Author Kit on Overleaf](https://www.overleaf.com) or [AAAI 2025 Author Kit.zip](#) [Word and LaTeX]). The review process will be double-blind, so please anonymize your papers by removing identifying information such as author names, affiliations, and funding details.
+
 
 ## Organizers
 
@@ -47,6 +51,7 @@ All papers must follow the AAAI two-column, camera-ready style for US Letter (8.
 - **Roman Klinger**, University of Bamberg
 - **Véronique Hoste**, Ghent University
 
+
 ## Important Dates
 
 - **Paper submission deadline:** March 21, 2025
@@ -54,9 +59,6 @@ All papers must follow the AAAI two-column, camera-ready style for US Letter (8.
 - **Camera ready paper due:** May 26, 2025
 - **NLPSI Workshop day:** June 23, 2025
 
-## Further Information
-
-For further details and updates, please visit the [NLPSI website](https://nlpsi-workshop.github.io).
 
 If you have any questions, contact us at [nlpsi-workshop-organizers.nlproc@uni-bamberg.de](mailto:nlpsi-workshop-organizers.nlproc@uni-bamberg.de).
 
