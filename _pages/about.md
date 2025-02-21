@@ -28,15 +28,9 @@ latest_posts:
 First Workshop on Integrating NLP and Psychology to Study Social Interactions (NLPSI) at ICWSM 2025
 </h2>
 
+Recent advances in natural language processing (NLP) have enabled not only the modeling of syntax and semantics but also the analysis of higher-level aspects of human communication—such as pragmatics, social dynamics, and emotional expression. Building on these advances, we can now address foundational questions that remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology has been studying human behavior, perception, and communication for years, offering valuable insights into these questions. At the same time, NLP allows us to move beyond controlled, small-scale experiments and conduct large-scale studies to better explore key theories and research questions in psychology.
 
-Recent advances in natural language processing (NLP) have facilitated the modeling and analysis of more complex aspects of human language and communication. However, certain foundational questions remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology can offer valuable insights into these questions, as it has been studying human behavior, perception and communication for years. At the same time, NLP allows to go beyond controlled, small-scale experiments and conduct large-scale studies to better explore certain theories and research questions in psychology. This interdisciplinary workshop seeks to bridge the two disciplines with a primary focus on NLP research that is explicitly grounded in psychological theories.
-
-We invite researchers to explore how psychological phenomena manifest in language, with a focus on
-integrating NLP and psychological theories. We are particularly interested in studies on communication and
-interpersonal interactions, as well as innovative approaches that adapt experimental designs from psychology
-to create rich corpora. Additionally, we encourage discussions on how NLP, including generative models, can
-advance social psychology research by simulating social interactions, opening new possibilities for studying
-human behavior at scale, both in human and AI contexts.
+NLPSI seeks to bridge these two disciplines with a primary focus on NLP research grounded in psychological theories. This interdisciplinary workshop invites researchers from NLP, Social Psychology, Communication Sciences, Affective Computing, and related fields to submit their work. We invite researchers to explore how psychological phenomena manifest in language, with a focus on integrating NLP and psychological theories. We are particularly interested in studies on communication and interpersonal interactions, as well as innovative approaches that adapt experimental designs from psychology to create rich corpora. Additionally, we encourage discussions on how NLP, including generative models, can advance social psychology research by simulating social interactions, opening new possibilities for studying human behavior at scale, both in human and AI contexts.
 
 
 ### Invited Speaker
