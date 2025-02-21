@@ -7,38 +7,57 @@ nav: true
 nav_order: 2
 ---
 
-**Deadline for paper submission**: March 31, 2025
 
+The **First Workshop on Integrating NLP and Psychology to Study Social Interactions (NLPSI)** will be co-located with the International AAAI Conference on Web and Social Media (ICWSM’25) and will take place in person on **Monday 23 June 2025**.
 
-The workshop will be co-located with the International AAAI Conference on Web and Social Media **(ICWSM'25)** and will take place **in person** on **Monday 23 June 2025**.
+**Deadline for paper submission:** March 21, 2025
 
+## Background and Scope
 
-Topics of interest include, but are not limited to:
+Recent advances in natural language processing (NLP) have enabled not only the modeling of syntax and semantics but also the analysis of higher-level aspects of human communication—such as pragmatics, social dynamics, and emotional expression. Building on these advances, we can now address foundational questions that remain relatively unexplored in NLP: What are the core psychological processes that shape human behavior and communication? What factors influence how individuals perceive, process, and produce language, and how do these processes impact communication? Psychology has been studying human behavior, perception, and communication for years, offering valuable insights into these questions. At the same time, NLP allows us to move beyond controlled, small-scale experiments and conduct large-scale studies to better explore key theories and research questions in psychology.
 
-- Extracting and classifying psychological constructs (e.g., beliefs, motives, feelings, affect, personality traits) to compare and expand existing psychological theories.
-- Using NLP to replicate psychological studies, especially those focused on interaction.
-- Investigating how language reflects social identities, including ethnicity and group affiliation.
-- Analyzing communication patterns such as empathy, persuasion, and conflict resolution, and how these are linguistically expressed in different contexts.
-- Examining the role of emotions in interpersonal communication, including phenomena like emotion contagion and interpersonal emotion regulation.
-- Leveraging LLMs in experimental, interactional studies.
-- Exploring how psychological constructs and theories manifest across cultures, using NLP to identify cross-cultural variations in communication and behavior.
+NLPSI seeks to bridge these two disciplines with a primary focus on NLP research grounded in psychological theories. This interdisciplinary workshop invites researchers from NLP, Social Psychology, Communication Sciences, Affective Computing, and related fields to submit their work. We welcome submissions on topics including, but not limited to, the following:
 
+- **Psychological constructs:** (e.g., beliefs, motives, feelings, affect, personality).
+- **Psychological studies:** especially those focused on interaction.
+- **Language and social identities:** including ethnicity and group affiliation.
+- **Communication patterns:** such as empathy, persuasion, and conflict resolution.
+- **Role of emotions in interpersonal communication:** including phenomena like emotion contagion and interpersonal emotion regulation.
+- **LLMs in experimental, interactional studies.**
+- **Cross-cultural variations in communication and behavior.**
 
+## Submission Types
 
-### Submission Guidelines
 We invite the following types of submissions:
- 
-- **Extended Abstracts** that present ongoing work, position papers, previously published work, or research projects. Abstracts can be submitted either for inclusion in the proceedings (archival) or as non-archival contributions. 
-- **Long papers** (max. 8 pages) that present original research, from preliminary findings to established contributions, including theory, experiments, or applications.
-- **Short papers** (max. 4 pages) that introduce emerging ideas, work in progress, or early-stage research with clear significance. 
 
+- **Long papers** (5 to 8 pages) that present original research, from preliminary findings to established contributions, including theory, experiments, or applications.
+- **Short papers** (up to 4 pages) that introduce emerging ideas, work in progress, or early-stage research with clear significance.
+- **Extended Abstracts** (up to 2 pages) that present ongoing work, position papers, previously published work, or research projects. Abstracts can be submitted either for inclusion in the proceedings (archival) or as non-archival contributions.
 
-Full papers will be presented on-site and are allocated X minutes (including 10 minutes for discussion). (rewrite this or remove)
-Abstracts will be presented in interactive poster sessions. 
+## Format
 
+All papers must follow the AAAI two-column, camera-ready style for US Letter (8.5" x 11") paper, using Type 1 or TrueType fonts. (Available templates: [AAAI 2025 Author Kit on Overleaf](https://www.overleaf.com) or [AAAI 2025 Author Kit.zip](#) [Word | LaTeX]). The review process will be double-blind, so please anonymize your papers by removing identifying information such as author names, affiliations, and funding details.
 
+## Organizers
 
-### Important Dates
+- **Aswathy Velutharambath**, University of Bamberg
+- **Sofie Labat**, Ghent University
+- **Neele Falk**, University of Stuttgart
+- **Flor Miriam Plaza-del-Arco**, Bocconi University
+- **Roman Klinger**, University of Bamberg
+- **Véronique Hoste**, Ghent University
 
-{% include dates.liquid %}
+## Important Dates
+
+- **Paper submission deadline:** March 21, 2025
+- **Notification of acceptance:** April 30, 2025
+- **Camera ready paper due:** May 26, 2025
+- **NLPSI Workshop day:** June 23, 2025
+
+## Further Information
+
+For further details and updates, please visit the [NLPSI website](https://nlpsi-workshop.github.io).
+
+If you have any questions, contact us at [nlpsi-workshop-organizers.nlproc@uni-bamberg.de](mailto:nlpsi-workshop-organizers.nlproc@uni-bamberg.de).
+
 
