@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -47,6 +47,9 @@ ninja.data = [{
       },
     },{id: "news-nlpsi-25-first-workshop-on-integrating-nlp-and-psychology-to-study-social-interactions-will-be-co-located-with-icwsm-25-on-june-23-2025-in-copenhagen-denmark-stay-tuned-for-more-details",
           title: 'NLPSI’25: First Workshop on Integrating NLP and Psychology to Study Social Interactions will...',
+          description: "",
+          section: "News",},{id: "news-first-call-for-papers-is-out-paper-submission-deadline-march-21-2025",
+          title: 'First call for papers is out! Paper submission deadline March 21, 2025.',
           description: "",
           section: "News",},{
       id: 'light-theme',
