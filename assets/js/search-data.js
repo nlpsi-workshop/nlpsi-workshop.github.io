@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-first-call-for-papers-is-out-paper-submission-deadline-march-21-2025",
           title: 'First call for papers is out! Paper submission deadline March 21, 2025.',
           description: "",
+          section: "News",},{id: "news-paper-submission-deadline-extended-march-21-2025-april-4-2025",
+          title: 'Paper submission deadline extended  March 21, 2025 April 4, 2025.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
