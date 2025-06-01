@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/call_for_papers/";
           },
-        },{id: "nav-️-event-schedule",
-          title: "🗓️ Event Schedule",
+        },{id: "nav-schedule",
+          title: "Schedule",
           description: "",
           section: "Navigation",
           handler: () => {
