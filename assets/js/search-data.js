@@ -59,14 +59,11 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-nlpsi-25-first-workshop-on-integrating-nlp-and-psychology-to-study-social-interactions-will-be-co-located-with-icwsm-25-on-june-23-2025-in-copenhagen-denmark-stay-tuned-for-more-details",
-          title: 'NLPSI’25: First Workshop on Integrating NLP and Psychology to Study Social Interactions will...',
+    },{id: "news-nlpsi-26-second-workshop-on-integrating-nlp-and-psychology-to-study-social-interactions-will-be-co-located-with-social-context-socon-with-lrec-26-held-in-palau-de-congressos-de-palma-palma-de-mallorca-spain-on-11-16-may-2026",
+          title: 'NLPSI’26: Second Workshop on Integrating NLP and Psychology to Study Social Interactions will...',
           description: "",
-          section: "News",},{id: "news-first-call-for-papers-is-out-paper-submission-deadline-march-21-2025",
-          title: 'First call for papers is out! Paper submission deadline March 21, 2025.',
-          description: "",
-          section: "News",},{id: "news-paper-submission-deadline-extended-march-21-2025-april-4-2025",
-          title: 'Paper submission deadline extended  March 21, 2025 April 4, 2025.',
+          section: "News",},{id: "news-first-call-for-papers-is-out-paper-submission-deadline-february-16-2026",
+          title: 'First call for papers is out! Paper submission deadline February 16, 2026.',
           description: "",
           section: "News",},{
       id: 'light-theme',
