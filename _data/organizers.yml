@@ -20,6 +20,7 @@
   image: "/assets/img/neele.jpeg"
   socials:
     website: "https://www.ims.uni-stuttgart.de/en/institute/team/Falk/"
+    scholar: "https://scholar.google.com/citations?hl=en&user=gHILSS4AAAAJ"
 
 
 - name: "Flor Miriam Plaza-del-Arco"
@@ -48,3 +49,10 @@
     website: "https://lt3.ugent.be/people/veronique-hoste/"
     scholar: "https://scholar.google.com/citations?user=WxOsW3IAAAAJ"
     linkedin: "https://www.linkedin.com/in/veronique-hoste-5b5b93/"
+
+- name: "Bennett Kleinberg"
+  affiliation: " University College London (UK)"
+  image: "/assets/img/bennett.jpg"
+  socials:
+    website: "https://bkleinberg.net"
+    scholar: "https://scholar.google.com/citations?hl=en&user=Ms2d7OsAAAAJ"
