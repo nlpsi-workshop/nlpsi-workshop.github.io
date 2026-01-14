@@ -60,7 +60,7 @@ We welcome submissions on topics including, but not limited to, the following:
 We welcome the following types of submissions: 
 * __Long papers__ (up to 8 pages) that present original research, from preliminary findings to established contributions, including theory, experiments, or applications.
 * __Short papers__ (up to 4 pages) that introduce emerging ideas, work in progress, or early-stage research with clear significance.
-
+* __Extended abstracts__ (up to 2 pages), a new format designed to be inclusive of researchers from fields where conference papers are not standard (e.g., Social Sciences). Extended abstracts are not included in conference proceedings.
 ### Submission Guidelines
 * All submissions will be double-blind reviewed 
 * Submissions should follow [LREC guidelines](https://lrec2026.info/authors-kit/). Here are all the templates (LaTeX, Word, Open Office, Overleaf LaTeX templates).
