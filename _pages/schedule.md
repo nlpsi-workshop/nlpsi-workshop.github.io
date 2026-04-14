@@ -62,7 +62,6 @@ nav_order: 3
 }
 </style>
 
-
 <table class="schedule-table">
   <thead>
     <tr>
@@ -72,41 +71,50 @@ nav_order: 3
   </thead>
   <tbody>
     <tr>
-      <td>7:30</td>
-      <td>Conference registration begins</td>
+      <td>09:00 - 09:05</td>
+      <td>Welcome session</td>
     </tr>
     <tr>
-      <td>8:00 - 8:15</td>
-      <td>Opening Remarks</td>
+      <td>09:05 - 09:50</td>
+      <td>Invited talk by <strong>Ana-Maria Bucur</strong></td>
     </tr>
     <tr>
-      <td>8:15 - 9:15</td>
-      <td>Keynote Talk</td>
+      <td>09:50 - 10:30</td>
+      <td>Presentation of best papers</td>
     </tr>
     <tr>
-      <td>9:15 - 9:30</td>
-      <td>Coffee Break</td>
+      <td>10:30 - 11:00</td>
+      <td>Coffee break</td>
     </tr>
     <tr>
-      <td>9:30 - 10:20</td>
-      <td>Networking Session</td>
+      <td>11:00 - 11:30</td>
+      <td>Lightning talks</td>
     </tr>
     <tr>
-      <td>10:20 - 11:50</td>
-      <td>Interactive Presentations (Poster/Talks)</td>
+      <td>11:30 - 13:00</td>
+      <td>Poster session</td>
     </tr>
     <tr>
-      <td>11:50 - 12:00</td>
-      <td>Closing Remarks</td>
+      <td>13:00 - 14:00</td>
+      <td>Lunch break</td>
+    </tr>
+    <tr>
+      <td>14:00 - 14:45</td>
+      <td>Invited talk by <strong>Anna Lauscher</strong></td>
+    </tr>
+    <tr>
+      <td>14:45 - 16:00</td>
+      <td>Annotation lab</td>
+    </tr>
+    <tr>
+      <td>16:00 - 16:30</td>
+      <td>Coffee break</td>
+    </tr>
+    <tr>
+      <td>16:30 - 18:00</td>
+      <td>Poster session</td>
     </tr>
   </tbody>
 </table>
-
-
-## Location
-
-**Address:** A.C. Meyers Vænge 15, Building A, **Room 1.0.001**, 2450 København, Denmark  
-
-[View on Google Maps](https://maps.app.goo.gl/N54XfNXDsrrq5TMB9)
 
 ---
