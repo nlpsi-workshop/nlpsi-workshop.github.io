@@ -3,7 +3,7 @@ layout: page
 permalink: /proceedings/
 title: Proceedings
 description: 
-nav: true
+nav: false
 nav_order: 4
 ---
 
