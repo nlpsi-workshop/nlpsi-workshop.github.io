@@ -1,7 +1,7 @@
 <div class="sponsors-container">
   {% for sponsor in site.data.sponsored_by %}
     <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="sponsor-logo">
-      <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }} logo">
+      <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo">
     </a>
   {% endfor %}
 </div>

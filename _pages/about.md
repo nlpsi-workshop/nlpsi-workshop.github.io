@@ -35,7 +35,7 @@ Recent advances in natural language processing (NLP) have enabled not only the m
 
 NLPSI seeks to bridge these two disciplines with a primary focus on NLP research grounded in psychological theories. This interdisciplinary workshop invites researchers from NLP, Social Psychology, Communication Sciences, Affective Computing, and related fields to submit their work. We invite researchers to explore how psychological phenomena manifest in language, with a focus on integrating NLP and psychological theories. We are particularly interested in studies on communication and interpersonal interactions, as well as innovative approaches that adapt experimental designs from psychology to create rich corpora. Additionally, we encourage discussions on how NLP, including generative models, can advance social psychology research by simulating social interactions, opening new possibilities for studying human behavior at scale, both in human and AI contexts.
 
-#### [Call for papers](https://nlpsi-workshop.github.io/call_for_papers/)
+#### [Call for papers]({{ '/call_for_papers/' | relative_url }})
 #### [Softconf Submission](https://softconf.com/lrec2026/SoConNLPSI/)
 
 ## Important Dates
@@ -46,7 +46,7 @@ NLPSI seeks to bridge these two disciplines with a primary focus on NLP research
 * __Workshop day__: May 12th, 2026 
 
 ### Questions
-If you have any questions, please do not hesitate to contact us at <a href="nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.
+If you have any questions, please do not hesitate to contact us at <a href="mailto:nlpsi-workshop-organizers.nlproc@uni-bamberg.de">nlpsi-workshop-organizers.nlproc@uni-bamberg.de</a>.
 
 ### Organizers
 {% include organizers.liquid center=true %}

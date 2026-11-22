@@ -6,5 +6,5 @@ nav_order: 6
 dropdown: true
 children:
   - title: "2025"
-    permalink: /2025/
+    permalink: https://nlpsi-workshop.github.io/2025/
 ---

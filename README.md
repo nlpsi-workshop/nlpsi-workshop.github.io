@@ -13,25 +13,33 @@ The website is built automatically when you push or update the pages directly in
 
 ## Archive Old Versions of the Workshop  
 
-1. **Build the website locally.**  
+Do this when the next edition is announced, **before** replacing any content, so the archive captures the finished edition.
+
+1. **Install the dependencies** (once per machine).  
     ```bash
     bundle install
-    bundle exec jekyll build
     ```
-   This creates a `_site` folder containing the static version of your active site.  
 
-2. **Archive the site.**  
-   Create a folder for the archive (e.g., `2025`) and copy the static files:  
+2. **Build the archive.** Replace `2026` with the edition's year:  
     ```bash
-    mkdir 2025
-    cp -r _site/* 2025/
+    bin/archive_edition.sh 2026
     ```
-3. **Commit and push the changes.**  
-   This makes the archived version available on GitHub Pages at:  
-   [https://nlpsi-workshop.github.io/2025/](https://nlpsi-workshop.github.io/2025/)  
+   This builds the site with `--baseurl /2026`, so every link and image points inside the archive (e.g. `/2026/schedule/`), and saves it in the folder `2026/`. Older archives are not copied into it. The build takes several minutes.  
+   If `bundle` is broken on your machine, use a working one: `BUNDLE=bundle3.2 bin/archive_edition.sh 2026`.
 
-4. **List previous versions on the website.**  
-  - Update `_pages/dropdown` (enable if not enabled).  
-  - Add the link to the archived version.  
+3. **Add it to the "Past Editions" menu** in `_pages/drowpdown.md`. Use the full URL and put the newest year first:  
+    ```yaml
+    children:
+      - title: "2026"
+        permalink: https://nlpsi-workshop.github.io/2026/
+      - title: "2025"
+        permalink: https://nlpsi-workshop.github.io/2025/
+    ```
+
+4. **Commit and push.** The archive will then be live at `https://nlpsi-workshop.github.io/2026/`.
+
+**Keeping archives working:** for links to site pages or images in templates and pages, use `{{ '/path/' | relative_url }}` rather than `/path/` or `https://nlpsi-workshop.github.io/path/`. Otherwise the archived copy links to the current site instead of itself. Archived editions automatically get a "Current Edition" link in their menu.
+
+The `2025/` archive was made with the old copy method, and its links were corrected by hand.  
 
 ---

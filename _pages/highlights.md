@@ -22,13 +22,13 @@ nav_order: 5
        "contain": true 
      }'>
 
-  <div class="gallery-cell"><img src="/assets/img/highlights/orga.jpeg" alt="Workshop Image 0"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/keynote.jpeg" alt="Workshop Image 1"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/networking.jpeg" alt="Workshop Image 2"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/poster.jpeg" alt="Workshop Image 3"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/poster2.jpeg" alt="Workshop Image 4"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/poster3.jpeg" alt="Workshop Image 5"></div>
-  <div class="gallery-cell"><img src="/assets/img/highlights/audience.jpeg" alt="Workshop Image 6"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/orga.jpeg' | relative_url }}" alt="Workshop Image 0"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/keynote.jpeg' | relative_url }}" alt="Workshop Image 1"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/networking.jpeg' | relative_url }}" alt="Workshop Image 2"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/poster.jpeg' | relative_url }}" alt="Workshop Image 3"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/poster2.jpeg' | relative_url }}" alt="Workshop Image 4"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/poster3.jpeg' | relative_url }}" alt="Workshop Image 5"></div>
+  <div class="gallery-cell"><img src="{{ '/assets/img/highlights/audience.jpeg' | relative_url }}" alt="Workshop Image 6"></div>
 
 </div>
 
