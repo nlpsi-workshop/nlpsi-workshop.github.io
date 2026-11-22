@@ -13,33 +13,31 @@ The website is built automatically when you push or update the pages directly in
 
 ## Archive Old Versions of the Workshop  
 
-Do this when the next edition is announced, **before** replacing any content, so the archive captures the finished edition.
+Do this when the next edition is announced, **before** replacing any content, so the archive captures the edition that just ended. In the steps below, `<year>` is the year of the edition you are archiving.
 
 1. **Install the dependencies** (once per machine).  
     ```bash
     bundle install
     ```
 
-2. **Build the archive.** Replace `2026` with the edition's year:  
+2. **Build the archive.**  
     ```bash
-    bin/archive_edition.sh 2026
+    bin/archive_edition.sh <year>
     ```
-   This builds the site with `--baseurl /2026`, so every link and image points inside the archive (e.g. `/2026/schedule/`), and saves it in the folder `2026/`. Older archives are not copied into it. The build takes several minutes.  
-   If `bundle` is broken on your machine, use a working one: `BUNDLE=bundle3.2 bin/archive_edition.sh 2026`.
+   This builds the site with `--baseurl /<year>`, so every link and image points inside the archive (e.g. `/<year>/schedule/`), and saves it in the folder `<year>/`. Older archives are not copied into it. The build takes several minutes.  
+   If `bundle` is broken on your machine, use a working one, e.g. `BUNDLE=bundle3.2 bin/archive_edition.sh <year>`.
 
-3. **Add it to the "Past Editions" menu** in `_pages/drowpdown.md`. Use the full URL and put the newest year first:  
+3. **Add it to the "Past Editions" menu** in `_pages/drowpdown.md`. Add a new entry at the top of `children:` (newest year first), using the full URL:  
     ```yaml
     children:
-      - title: "2026"
-        permalink: https://nlpsi-workshop.github.io/2026/
-      - title: "2025"
-        permalink: https://nlpsi-workshop.github.io/2025/
+      - title: "<year>"
+        permalink: https://nlpsi-workshop.github.io/<year>/
+      # ...existing entries for earlier years stay below
     ```
 
-4. **Commit and push.** The archive will then be live at `https://nlpsi-workshop.github.io/2026/`.
+4. **Commit and push.** The archive will then be live at `https://nlpsi-workshop.github.io/<year>/`.
 
 **Keeping archives working:** for links to site pages or images in templates and pages, use `{{ '/path/' | relative_url }}` rather than `/path/` or `https://nlpsi-workshop.github.io/path/`. Otherwise the archived copy links to the current site instead of itself. Archived editions automatically get a "Current Edition" link in their menu.
-
-The `2025/` archive was made with the old copy method, and its links were corrected by hand.  
+  
 
 ---

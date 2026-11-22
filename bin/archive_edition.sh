@@ -5,11 +5,11 @@
 # Example: bin/archive_edition.sh 2026
 #
 # The site is built with --baseurl /<year>, so all internal links and assets
-# point inside the archive (e.g. /2026/schedule/) and keep working after the
+# point inside the archive (e.g. /<year>/schedule/) and keep working after the
 # main site moves on to the next edition.
 #
 # If `bundle` on your machine is broken, point BUNDLE at a working one, e.g.
-#   BUNDLE=bundle3.2 bin/archive_edition.sh 2026
+#   BUNDLE=bundle3.2 bin/archive_edition.sh <year>
 set -euo pipefail
 
 YEAR="${1:-}"
